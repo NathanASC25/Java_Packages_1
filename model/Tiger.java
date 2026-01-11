@@ -1,7 +1,6 @@
-package Java_Packages_1.controller;
-import Java_Packages_1.model.Animal;
+package Java_Packages_1.model;
 
-private class Tiger extends Animal {
+public class Tiger extends Animal {
         private int numOfStripes;
         private int roarLevel;
 
