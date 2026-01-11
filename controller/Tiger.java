@@ -5,7 +5,7 @@ private class Tiger extends Animal {
         private int numOfStripes;
         private int roarLevel;
 
-	public(String name, int age, double weight, int numOfStripes, int roarLevel) {
+	public Tiger(String name, int age, double weight, int numOfStripes, int roarLevel) {
                 super(name, age, weight);
                 this.numOfStripes = numOfStripes;
                 this.roarLevel = roarLevel;
